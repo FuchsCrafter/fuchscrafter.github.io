@@ -1,15 +1,6 @@
-# FuchsCrafters Github Page
-**Welcome!**
-***
+# Welcome!
+**Welcome on fuchscrafter.github.io!**
 
-### What I'm working on
-- ScratchOS
-- FuchsOS
-- Scratch2PY
-- My homepage (http://fuchscrafter.de)
-- Some small privat projects
-
-*Contact me: support@fuchscrafter.de*
-
-
-
+Hello, I'm FuchsCoder. I will soon redesign this Page, check back in a few weeks!
+My main Homepage:
+[fuchscrafter.de](http://fuchscrafter.de)
