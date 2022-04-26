@@ -1,5 +1,7 @@
 # Verifizierungscodewort
 
-Das Codewort zum verifizieren auf dem Discord lautet: **`RICKASTLEY`**
+Das Codewort zum verifizieren auf dem Discord lautet: 
 
-Bitte beachte die Großschreibung!
+## RICKASTLEY
+
+**Bitte beachte die Großschreibung!**
